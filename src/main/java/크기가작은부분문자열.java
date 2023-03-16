@@ -1,4 +1,4 @@
-public class Day3 {
+public class 크기가작은부분문자열 {
     /*
     크기가 작은 부분문자열
 문제 설명
